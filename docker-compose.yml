@@ -1,0 +1,67 @@
+#rent-service:
+#  image: rent-service
+#  dns: 172.17.0.1
+#  ports:
+#    - "8080"
+#  links:
+#    - eureka-server
+##    - payment-service
+##    - rabbitmq
+#  environment:
+#    RABBITMQ_HOST: rabbitmq
+#    EUREKA_SERV: http://eureka:8761/eureka/
+#    SERVICE_NAME: rent-service
+#    SERVICE_CHECK_HTTP: /health
+#    SPRING_PROFILES_ACTIVE: consul
+#    SPRING_ZIPKIN_BASEURL: http://192.168.99.100:9000
+
+
+eureka-server:
+  image: eureka-server
+  dns: 172.17.0.1
+  ports:
+    - "8080"
+#  links:
+#    - payment-service
+#    - rabbitmq
+  environment:
+    RABBITMQ_HOST: rabbitmq
+    EUREKA_SERV: http://eureka:8761/eureka/
+    SERVICE_NAME: eureka-server
+    SERVICE_CHECK_HTTP: /health
+
+#consul:
+#  image: gliderlabs/consul-server:0.5
+#  container_name: consul
+#  ports:
+#    - "8400:8400"
+#    - "8500:8500"
+#    - "53:8600/udp"
+#  command: "-bootstrap -advertise 192.168.99.100 -ui-dir /ui"
+#  restart: always
+
+#gateway-server:
+#  image: gateway-server
+#  container_name: gateway-server
+#  ports:
+#    - "9000:9000"
+#  restart: always
+#
+#consul:
+#  image: gliderlabs/consul-server
+#  container_name: consul
+#  ports:
+#    - "8400:8400"
+#    - "8500:8500"
+#    - "53:8600/udp"
+#  command: "-bootstrap -advertise 192.168.99.100 -ui-dir /ui"
+#  restart: always
+#
+#registrator:
+#  image: gliderlabs/registrator
+#  container_name: registrator
+#  net: "host"
+#  volumes:
+#    - "/var/run/docker.sock:/tmp/docker.sock"
+#  command: "-ip 192.168.99.100 consul://192.168.99.100:8500"
+#  restart: always

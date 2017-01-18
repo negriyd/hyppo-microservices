@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="blockchain-service_main" target="1.8" />
+      <module name="blockchain-service_test" target="1.8" />
+      <module name="eureka-server_main" target="1.8" />
+      <module name="eureka-server_test" target="1.8" />
+      <module name="gateway-server_main" target="1.8" />
+      <module name="gateway-server_test" target="1.8" />
+      <module name="insurance-service_main" target="1.8" />
+      <module name="insurance-service_test" target="1.8" />
+      <module name="ops-server_main" target="1.8" />
+      <module name="ops-server_test" target="1.8" />
+      <module name="payment-service_main" target="1.8" />
+      <module name="payment-service_test" target="1.8" />
+      <module name="rent-service_main" target="1.8" />
+      <module name="rent-service_test" target="1.8" />
+      <module name="security-service_main" target="1.8" />
+      <module name="security-service_test" target="1.8" />
+      <module name="turbine-server_main" target="1.8" />
+      <module name="turbine-server_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

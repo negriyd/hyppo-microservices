@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.zipkin:zipkin-ui:1.40.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin/zipkin-ui/1.40.0/c15357af64d3213354cfbd4fe760cc0627524bad/zipkin-ui-1.40.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin/zipkin-ui/1.40.0/d15582872008d2ca464d250bdf1bbbcf68277c3d/zipkin-ui-1.40.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

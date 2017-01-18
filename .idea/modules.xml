@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service.iml" filepath="$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service.iml" group="blockchain-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service_main.iml" group="blockchain-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/blockchain-service/blockchain-service_test.iml" group="blockchain-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/eureka-server_test.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server.iml" group="gateway-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server_main.iml" group="gateway-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-server/gateway-server_test.iml" group="gateway-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service.iml" filepath="$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service.iml" group="insurance-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service_main.iml" group="insurance-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/insurance-service/insurance-service_test.iml" group="insurance-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/joker.iml" filepath="$PROJECT_DIR$/.idea/modules/joker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ops-server/ops-server.iml" filepath="$PROJECT_DIR$/.idea/modules/ops-server/ops-server.iml" group="ops-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ops-server/ops-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ops-server/ops-server_main.iml" group="ops-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ops-server/ops-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ops-server/ops-server_test.iml" group="ops-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service/payment-service.iml" group="payment-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service/payment-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service/payment-service_main.iml" group="payment-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service/payment-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service/payment-service_test.iml" group="payment-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rent-service/rent-service.iml" filepath="$PROJECT_DIR$/.idea/modules/rent-service/rent-service.iml" group="rent-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rent-service/rent-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rent-service/rent-service_main.iml" group="rent-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rent-service/rent-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rent-service/rent-service_test.iml" group="rent-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security-service/security-service.iml" filepath="$PROJECT_DIR$/.idea/modules/security-service/security-service.iml" group="security-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security-service/security-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/security-service/security-service_main.iml" group="security-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/security-service/security-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/security-service/security-service_test.iml" group="security-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server.iml" filepath="$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server.iml" group="turbine-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server_main.iml" group="turbine-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/turbine-server/turbine-server_test.iml" group="turbine-server" />
+    </modules>
+  </component>
+</project>

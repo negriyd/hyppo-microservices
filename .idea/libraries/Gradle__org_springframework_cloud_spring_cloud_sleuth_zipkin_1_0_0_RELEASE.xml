@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-sleuth-zipkin:1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/1.0.0.RELEASE/3eaf66b26420f66883804c2f41b2ba3d0d83fecd/spring-cloud-sleuth-zipkin-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-sleuth-zipkin/1.0.0.RELEASE/70b3b012bb8fe78e99b2a3ec3c0e2c94af8bfc8/spring-cloud-sleuth-zipkin-1.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

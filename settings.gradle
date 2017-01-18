@@ -1,0 +1,13 @@
+rootProject.name = "joker"
+
+//## start includes ####
+include 'rent-service'
+include 'eureka-server'
+include 'blockchain-service'
+include 'gateway-server'
+include 'insurance-service'
+include 'ops-server'
+include 'payment-service'
+include 'security-service'
+include 'turbine-server'
+//## end includes ######
